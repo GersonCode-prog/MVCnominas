@@ -1,0 +1,19 @@
+/* Estilos normales del botón "Manual de Usuario" */
+.btn-pdf {
+    background-color: #007BFF;
+    color: #FFF;
+    border: 1px solid #007BFF;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-top: 10px;
+    transition: transform 0.3s, background-color 0.3s, color 0.3s; /* Agrega transiciones suaves a transform, color de fondo y texto */
+}
+
+/* Efecto al pasar el mouse (hover) */
+.btn-pdf:hover {
+    background-color: #0056b3; /* Cambia el color de fondo al pasar el mouse */
+    color: #FFF; /* Cambia el color del texto al pasar el mouse */
+    transform: translate(5px, 0); /* Mueve el botón 5px a la derecha al pasar el mouse */
+}

@@ -1,0 +1,157 @@
+<table border='0'> 
+
+          <tr> 
+          <td style='font-weight:bold; border:1px solid #eee;'>CÓDIGO</td> 
+          <td style='font-weight:bold; border:1px solid #eee;'>CLIENTE</td>
+          <td style='font-weight:bold; border:1px solid #eee;'>VENDEDOR</td>
+          <td style='font-weight:bold; border:1px solid #eee;'>CANTIDAD</td>
+          <td style='font-weight:bold; border:1px solid #eee;'>PRODUCTOS</td>
+          <td style='font-weight:bold; border:1px solid #eee;'>IMPUESTO</td>
+          <td style='font-weight:bold; border:1px solid #eee;'>NETO</td>    
+          <td style='font-weight:bold; border:1px solid #eee;'>TOTAL</td>   
+          <td style='font-weight:bold; border:1px solid #eee;'>FECHA</td>   
+          </tr><tr>
+            <td style='border:1px solid #eee;'>10001</td> 
+            <td style='border:1px solid #eee;'>Yujiro Hanma</td>
+            <td style='border:1px solid #eee;'>Josue Aguilar</td>
+            <td style='border:1px solid #eee;'>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br></td><td style='border:1px solid #eee;'>Modulo ABS<br>Cargadores Traseros<br>Cargadores Izquierdos<br>Tapaderas de Distribuidor<br>Cojinetes y bufas de Rueda<br>Cruces de transmisión<br>Hueles y Bushing<br>Amortiguadores<br>bujías<br>alternadores<br></td>
+          <td style='border:1px solid #eee;'>Q. 528.00</td>
+          <td style='border:1px solid #eee;'>Q. 4,400.00</td>  
+          <td style='border:1px solid #eee;'>Q. 4,928.00</td>
+          <td style='border:1px solid #eee;'>2022-10-14</td>   
+          </tr><tr>
+            <td style='border:1px solid #eee;'>10002</td> 
+            <td style='border:1px solid #eee;'>Yuki kara</td>
+            <td style='border:1px solid #eee;'>Josue Aguilar</td>
+            <td style='border:1px solid #eee;'>7<br></td><td style='border:1px solid #eee;'>Modulo ABS<br></td>
+          <td style='border:1px solid #eee;'>Q. 588.00</td>
+          <td style='border:1px solid #eee;'>Q. 4,900.00</td>  
+          <td style='border:1px solid #eee;'>Q. 5,488.00</td>
+          <td style='border:1px solid #eee;'>2022-10-14</td>   
+          </tr><tr>
+            <td style='border:1px solid #eee;'>10003</td> 
+            <td style='border:1px solid #eee;'>Yui Toaru</td>
+            <td style='border:1px solid #eee;'>Josue Aguilar</td>
+            <td style='border:1px solid #eee;'>8<br></td><td style='border:1px solid #eee;'>Cargadores Izquierdos<br></td>
+          <td style='border:1px solid #eee;'>Q. 336.00</td>
+          <td style='border:1px solid #eee;'>Q. 2,800.00</td>  
+          <td style='border:1px solid #eee;'>Q. 3,136.00</td>
+          <td style='border:1px solid #eee;'>2022-08-14</td>   
+          </tr><tr>
+            <td style='border:1px solid #eee;'>10004</td> 
+            <td style='border:1px solid #eee;'>Yuki kara</td>
+            <td style='border:1px solid #eee;'>Josue Aguilar</td>
+            <td style='border:1px solid #eee;'>1<br></td><td style='border:1px solid #eee;'>Modulo ABS<br></td>
+          <td style='border:1px solid #eee;'>Q. 84.00</td>
+          <td style='border:1px solid #eee;'>Q. 700.00</td>  
+          <td style='border:1px solid #eee;'>Q. 784.00</td>
+          <td style='border:1px solid #eee;'>2022-08-15</td>   
+          </tr><tr>
+            <td style='border:1px solid #eee;'>10005</td> 
+            <td style='border:1px solid #eee;'>Yuki kara</td>
+            <td style='border:1px solid #eee;'>Josue Aguilar</td>
+            <td style='border:1px solid #eee;'>1<br>1<br></td><td style='border:1px solid #eee;'>Modulo ABS<br>Cargadores Traseros<br></td>
+          <td style='border:1px solid #eee;'>Q. 142.80</td>
+          <td style='border:1px solid #eee;'>Q. 1,190.00</td>  
+          <td style='border:1px solid #eee;'>Q. 1,332.80</td>
+          <td style='border:1px solid #eee;'>2022-08-15</td>   
+          </tr><tr>
+            <td style='border:1px solid #eee;'>10006</td> 
+            <td style='border:1px solid #eee;'>Yuki kara</td>
+            <td style='border:1px solid #eee;'>Josue Aguilar</td>
+            <td style='border:1px solid #eee;'>1<br></td><td style='border:1px solid #eee;'>Modulo ABS<br></td>
+          <td style='border:1px solid #eee;'>Q. 84.00</td>
+          <td style='border:1px solid #eee;'>Q. 700.00</td>  
+          <td style='border:1px solid #eee;'>Q. 784.00</td>
+          <td style='border:1px solid #eee;'>2022-09-16</td>   
+          </tr><tr>
+            <td style='border:1px solid #eee;'>10007</td> 
+            <td style='border:1px solid #eee;'>Yui Toaru</td>
+            <td style='border:1px solid #eee;'>Josue Aguilar</td>
+            <td style='border:1px solid #eee;'>1<br></td><td style='border:1px solid #eee;'>Modulo ABS<br></td>
+          <td style='border:1px solid #eee;'>Q. 84.00</td>
+          <td style='border:1px solid #eee;'>Q. 700.00</td>  
+          <td style='border:1px solid #eee;'>Q. 784.00</td>
+          <td style='border:1px solid #eee;'>2022-09-17</td>   
+          </tr><tr>
+            <td style='border:1px solid #eee;'>10008</td> 
+            <td style='border:1px solid #eee;'>Yuki kara</td>
+            <td style='border:1px solid #eee;'>Josue Aguilar</td>
+            <td style='border:1px solid #eee;'>1<br></td><td style='border:1px solid #eee;'>Modulo ABS<br></td>
+          <td style='border:1px solid #eee;'>Q. 84.00</td>
+          <td style='border:1px solid #eee;'>Q. 700.00</td>  
+          <td style='border:1px solid #eee;'>Q. 784.00</td>
+          <td style='border:1px solid #eee;'>2022-09-17</td>   
+          </tr><tr>
+            <td style='border:1px solid #eee;'>10009</td> 
+            <td style='border:1px solid #eee;'>Yuki kara</td>
+            <td style='border:1px solid #eee;'>Josue Aguilar</td>
+            <td style='border:1px solid #eee;'>1<br></td><td style='border:1px solid #eee;'>Modulo ABS<br></td>
+          <td style='border:1px solid #eee;'>Q. 84.00</td>
+          <td style='border:1px solid #eee;'>Q. 700.00</td>  
+          <td style='border:1px solid #eee;'>Q. 784.00</td>
+          <td style='border:1px solid #eee;'>2022-07-17</td>   
+          </tr><tr>
+            <td style='border:1px solid #eee;'>10010</td> 
+            <td style='border:1px solid #eee;'>Yujiro Hanma</td>
+            <td style='border:1px solid #eee;'>Josue Aguilar</td>
+            <td style='border:1px solid #eee;'>1<br></td><td style='border:1px solid #eee;'>Modulo ABS<br></td>
+          <td style='border:1px solid #eee;'>Q. 84.00</td>
+          <td style='border:1px solid #eee;'>Q. 700.00</td>  
+          <td style='border:1px solid #eee;'>Q. 784.00</td>
+          <td style='border:1px solid #eee;'>2022-07-17</td>   
+          </tr><tr>
+            <td style='border:1px solid #eee;'>10011</td> 
+            <td style='border:1px solid #eee;'>Yui Toaru</td>
+            <td style='border:1px solid #eee;'>Josue Aguilar</td>
+            <td style='border:1px solid #eee;'>1<br>1<br></td><td style='border:1px solid #eee;'>Modulo ABS<br>Cargadores Traseros<br></td>
+          <td style='border:1px solid #eee;'>Q. 142.80</td>
+          <td style='border:1px solid #eee;'>Q. 1,190.00</td>  
+          <td style='border:1px solid #eee;'>Q. 1,332.80</td>
+          <td style='border:1px solid #eee;'>2022-10-17</td>   
+          </tr><tr>
+            <td style='border:1px solid #eee;'>10012</td> 
+            <td style='border:1px solid #eee;'>Yujiro Hanma</td>
+            <td style='border:1px solid #eee;'>Josue Aguilar</td>
+            <td style='border:1px solid #eee;'>1<br>1<br></td><td style='border:1px solid #eee;'>Modulo ABS<br>Cargadores Traseros<br></td>
+          <td style='border:1px solid #eee;'>Q. 142.80</td>
+          <td style='border:1px solid #eee;'>Q. 1,190.00</td>  
+          <td style='border:1px solid #eee;'>Q. 1,332.80</td>
+          <td style='border:1px solid #eee;'>2022-10-21</td>   
+          </tr><tr>
+            <td style='border:1px solid #eee;'>10013</td> 
+            <td style='border:1px solid #eee;'>Yujiro Hanma</td>
+            <td style='border:1px solid #eee;'>Josue Aguilar</td>
+            <td style='border:1px solid #eee;'>1<br></td><td style='border:1px solid #eee;'>prueba<br></td>
+          <td style='border:1px solid #eee;'>Q. 16.80</td>
+          <td style='border:1px solid #eee;'>Q. 140.00</td>  
+          <td style='border:1px solid #eee;'>Q. 156.80</td>
+          <td style='border:1px solid #eee;'>2022-10-22</td>   
+          </tr><tr>
+            <td style='border:1px solid #eee;'>10014</td> 
+            <td style='border:1px solid #eee;'>Yujiro Hanma</td>
+            <td style='border:1px solid #eee;'>Josue Aguilar</td>
+            <td style='border:1px solid #eee;'>1<br></td><td style='border:1px solid #eee;'>prueba<br></td>
+          <td style='border:1px solid #eee;'>Q. 16.80</td>
+          <td style='border:1px solid #eee;'>Q. 140.00</td>  
+          <td style='border:1px solid #eee;'>Q. 156.80</td>
+          <td style='border:1px solid #eee;'>2022-10-23</td>   
+          </tr><tr>
+            <td style='border:1px solid #eee;'>10015</td> 
+            <td style='border:1px solid #eee;'>Yujiro Hanma</td>
+            <td style='border:1px solid #eee;'>Josue Aguilar</td>
+            <td style='border:1px solid #eee;'>1<br></td><td style='border:1px solid #eee;'>prueba<br></td>
+          <td style='border:1px solid #eee;'>Q. 16.80</td>
+          <td style='border:1px solid #eee;'>Q. 140.00</td>  
+          <td style='border:1px solid #eee;'>Q. 156.80</td>
+          <td style='border:1px solid #eee;'>2022-10-23</td>   
+          </tr><tr>
+            <td style='border:1px solid #eee;'>10016</td> 
+            <td style='border:1px solid #eee;'>Yujiro Hanma</td>
+            <td style='border:1px solid #eee;'>Josue Aguilar</td>
+            <td style='border:1px solid #eee;'>1<br></td><td style='border:1px solid #eee;'>prueba<br></td>
+          <td style='border:1px solid #eee;'>Q. 16.80</td>
+          <td style='border:1px solid #eee;'>Q. 140.00</td>  
+          <td style='border:1px solid #eee;'>Q. 156.80</td>
+          <td style='border:1px solid #eee;'>2022-10-23</td>   
+          </tr></table>
